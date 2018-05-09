@@ -16,7 +16,7 @@ namespace SimpleCalculator.Controllers
             return View();
         }
          /// <summary>
-         /// 
+         /// This is to test Github Desktop App.
          /// </summary>
          /// <param name="calculationModel"></param>
          /// <returns></returns>
