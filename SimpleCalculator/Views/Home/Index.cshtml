@@ -1,0 +1,70 @@
+﻿@using System.Configuration;
+@model SimpleCalculator.Models.CalculationModel
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<html>
+<head>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        <table>
+            <thead>
+                <text>Calculator</text>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td> Value 1: </td>
+                                    <td>
+                                        @Html.TextBoxFor(x => x.Value1)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td> Value 2:</td>
+                                    <td>
+                                        @Html.TextBoxFor(x => x.Value2)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>@Html.LabelFor(x => x.Result) </td>
+                                    @{
+                                        if (Model != null)
+                                        {
+
+                                            <td>
+                                                <span>@Model.Result</span>
+
+                                            </td>
+
+                                        }
+                                    }
+                                </tr>
+                                @if (Convert.ToBoolean(ConfigurationManager.AppSettings["ApplciationFeatures.Add"]))
+                                {
+                                    <tr>
+                                        <td>
+                                            <button type="submit" value="Add" name="Add" formaction="Add" formmethod="post">Add</button>
+                                        </td>
+
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+                                        }
+
+</body>
+
+</html>

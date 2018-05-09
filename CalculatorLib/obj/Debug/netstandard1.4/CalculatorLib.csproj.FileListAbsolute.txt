@@ -1,0 +1,7 @@
+C:\GitAdventures\GitExperiments\GitExperiments\SimpleCalculator\CalculatorLib\bin\Debug\netstandard1.4\CalculatorLib.deps.json
+C:\GitAdventures\GitExperiments\GitExperiments\SimpleCalculator\CalculatorLib\bin\Debug\netstandard1.4\CalculatorLib.dll
+C:\GitAdventures\GitExperiments\GitExperiments\SimpleCalculator\CalculatorLib\bin\Debug\netstandard1.4\CalculatorLib.pdb
+C:\GitAdventures\GitExperiments\GitExperiments\SimpleCalculator\CalculatorLib\obj\Debug\netstandard1.4\CalculatorLib.csprojResolveAssemblyReference.cache
+C:\GitAdventures\GitExperiments\GitExperiments\SimpleCalculator\CalculatorLib\obj\Debug\netstandard1.4\CalculatorLib.AssemblyInfo.cs
+C:\GitAdventures\GitExperiments\GitExperiments\SimpleCalculator\CalculatorLib\obj\Debug\netstandard1.4\CalculatorLib.dll
+C:\GitAdventures\GitExperiments\GitExperiments\SimpleCalculator\CalculatorLib\obj\Debug\netstandard1.4\CalculatorLib.pdb
