@@ -15,15 +15,16 @@ namespace SimpleCalculator.Controllers
         {
             return View();
         }
-         /// <summary>
-         /// This is to test Github Desktop App.
-         /// add one more comment for one more commit
-         /// </summary>
-         /// <param name="calculationModel"></param>
-         /// <returns></returns>
+        /// <summary>
+        /// This is to test Github Desktop App.
+        /// add one more comment for one more commit
+        /// </summary>
+        /// <param name="calculationModel"></param>
+        /// <returns></returns>
         [HttpPost]
         public ActionResult Add(CalculationModel calculationModel)
         {
+            var someValue = 0;
             if (ModelState.IsValid)
             {
                 calculationModel.Result = new Calculator.Calculator().Add(calculationModel.Value1, calculationModel.Value2);

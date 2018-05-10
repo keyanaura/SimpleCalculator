@@ -1,0 +1,15 @@
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib.Tests\bin\Debug\CalculatorLib.Tests.dll
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib.Tests\bin\Debug\CalculatorLib.Tests.pdb
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib.Tests\bin\Debug\CalculatorLib.dll
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib.Tests\bin\Debug\CalculatorLib.pdb
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib.Tests\obj\Debug\CalculatorLib.Tests.csprojResolveAssemblyReference.cache
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib.Tests\obj\Debug\CalculatorLib.Tests.csproj.CoreCompileInputs.cache
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib.Tests\obj\Debug\CalculatorLib.Tests.dll
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib.Tests\obj\Debug\CalculatorLib.Tests.pdb
