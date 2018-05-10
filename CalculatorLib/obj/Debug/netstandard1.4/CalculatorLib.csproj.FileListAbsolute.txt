@@ -5,3 +5,12 @@ C:\GitAdventures\GitExperiments\GitExperiments\SimpleCalculator\CalculatorLib\ob
 C:\GitAdventures\GitExperiments\GitExperiments\SimpleCalculator\CalculatorLib\obj\Debug\netstandard1.4\CalculatorLib.AssemblyInfo.cs
 C:\GitAdventures\GitExperiments\GitExperiments\SimpleCalculator\CalculatorLib\obj\Debug\netstandard1.4\CalculatorLib.dll
 C:\GitAdventures\GitExperiments\GitExperiments\SimpleCalculator\CalculatorLib\obj\Debug\netstandard1.4\CalculatorLib.pdb
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib\bin\Debug\netstandard1.4\CalculatorLib.deps.json
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib\bin\Debug\netstandard1.4\CalculatorLib.dll
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib\bin\Debug\netstandard1.4\CalculatorLib.pdb
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib\obj\Debug\netstandard1.4\CalculatorLib.csprojResolveAssemblyReference.cache
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib\obj\Debug\netstandard1.4\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib\obj\Debug\netstandard1.4\CalculatorLib.AssemblyInfoInputs.cache
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib\obj\Debug\netstandard1.4\CalculatorLib.AssemblyInfo.cs
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib\obj\Debug\netstandard1.4\CalculatorLib.dll
+C:\GitAdventures\Old_BackUp Untill 5 Dec 2017\GitHub\SimpleCalculator\CalculatorLib\obj\Debug\netstandard1.4\CalculatorLib.pdb
